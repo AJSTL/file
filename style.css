@@ -9,3 +9,7 @@ body {
     color: white;
     font-family: 'Open Sans', sans-serif;
 }
+
+p::first-line {
+    font-family: 'Helvetica', bold;
+  }
