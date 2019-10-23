@@ -30,7 +30,10 @@ padding-left: 200px;
 }
 
 .row {
- 
   .column {
     flex: 50%;
   }
+
+#blueText {
+  color: rgb(47, 47, 201);
+}
